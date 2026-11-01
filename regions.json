@@ -1,0 +1,20 @@
+{
+  "sco": {
+    "name": "Scotland (Glasgow)",
+    "locale": "en-GB",
+    "voice_id": "",
+    "dialect_notes": "aye (yes), naw (no), wee (small), cannae / dinnae / willnae (can't / don't / won't), weans (kids), the now (right now), pure as an intensifier (pure brilliant), messages (groceries), outwith (outside of), it's baltic (it's freezing), how's it gaun? (how's it going?), how (= why, e.g. 'how did you no come?'). Fillers: like, ken (more east coast), so it is / so I am as sentence tags."
+  },
+  "au": {
+    "name": "Australia (Sydney)",
+    "locale": "en-AU",
+    "voice_id": "",
+    "dialect_notes": "arvo (afternoon), brekkie (breakfast), servo (gas station), bottle-o (liquor store), heaps (very / a lot), reckon (think), keen (eager), no worries, she'll be right (it'll be fine), how ya going? (how are you), ute (pickup truck), esky (cooler), thongs (flip-flops), Maccas (McDonald's). Lots of shortening + -o / -ie endings. Fillers: yeah nah, nah yeah, mate."
+  },
+  "ng": {
+    "name": "Nigeria (Lagos)",
+    "locale": "en-NG",
+    "voice_id": "",
+    "dialect_notes": "Nigerian English with a light touch of Pidgin, as an educated Lagosian talks day to day. how far? (how are you / what's up), abeg (please), I'm coming (wait, I'll be right back), go-slow (traffic jam), flash me (give me a missed call), well done (greeting to someone at work), sorry (sympathy, not apology), light (electricity: 'there's no light'), off / on as verbs (off the AC), chop (eat), no wahala (no problem), sharp sharp (quickly), danfo (yellow minibus), okada (motorbike taxi), keke (tricycle taxi), buka (local eatery), pure water (sachet water), dash (tip / small gift), small as softener (wait small). Fillers and tags: o for emphasis (it's far o), sha (anyway / though), ehn, abi? / shey? (right?), now as softener (come now)."
+  }
+}
